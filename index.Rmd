@@ -1,0 +1,29 @@
+---
+title: "TriMeth paper 2"
+author: Sarah Østrup Jensen
+date: 2 December 2022
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Heading 1
+
+Here I will describe what this it is all *about*
+
+## Heading 2 - Getting data
+
+Here I'll explain how data for the paper is retreived.
+
+```{r}
+#This is a comment
+```
+
+
+### 2nd Asymptomatic cohort data
+
+
+
+
+## Heading 2 - Here I'll put the data analysis made using the cleaned data

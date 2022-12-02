@@ -1,0 +1,5 @@
+---
+title: "Trimeth paper 2"
+---
+
+On this website I'll save all notes, comments and R code used for TriMeth 2 paper investicating ctDNA detection in symptomatic CRCs and screen-detected CRCs using the TriMeth v2 test
